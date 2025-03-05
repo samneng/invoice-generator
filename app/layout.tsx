@@ -8,8 +8,7 @@ const kantumruyPro = Kantumruy_Pro({ subsets: ["khmer"], fallback: ['san-serif']
 
 export const metadata: Metadata = {
   title: "Invoice Generator",
-  description: "Generate professional invoices easily",
-  icons: "https://img.icons8.com/dusk/64/invoice.png"
+  description: "Generate professional invoices easily"
 }
 
 export default function RootLayout({
